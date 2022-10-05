@@ -1,1 +1,3 @@
 这是在lj分支新增的文件
+这是在main分之新增的一行
+然后我想把main合并到lj分支里,用sourcetree
