@@ -1,6 +1,4 @@
 这是新的文件:main改一
 main分支,加了第二行:main改二
-new line at dev branch. now there was a conflict at b.txt.
 dev删了3,4,5行,加了这一行
-将dev合到master后,处理冲突完毕~~~
-main分支改了最后一行:main改三
+main分支改了最后一行:处理冲突!!!!!
