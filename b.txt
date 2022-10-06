@@ -5,3 +5,4 @@ new line at main branch
 I am what i am, I'll be always love just as i am.
 new line at dev branch. now there was a conflict at b.txt.
 将dev合到master后,处理冲突完毕~~~
+dev分支在最末添加了一行
