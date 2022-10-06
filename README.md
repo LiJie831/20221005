@@ -4,3 +4,4 @@ Git 是免费的软件
 现在应该没人用svn了吧?
 if a==b:
   print("hello")
+Creating a new branch is quick.

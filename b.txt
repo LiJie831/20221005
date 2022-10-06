@@ -1,3 +1,6 @@
 这是新的文件
 名字叫b.txt1
 new line at main branch
+I am what i am, I'll be always love just as i am.
+new line at dev branch. now there was a conflict at b.txt.
+将dev合到master后,处理冲突完毕~~~
