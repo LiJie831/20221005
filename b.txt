@@ -1,3 +1,4 @@
 这是新的文件
 名字叫b.txt1
 I am what i am, I'll be always love just as i am.
+new line at dev branch. now there was a conflict at b.txt.
